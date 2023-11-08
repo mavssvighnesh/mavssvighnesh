@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm MANDALEEKA AVSS VIGHNESH</h1>
 <h3 align="center">A PASSIONATE PROGRAMMER FROM INDIA</h3>
+ <p>
 - 🌱 I’m currently learning **JAVA SCRIPT REACT NATIVE**
 - 💬 Ask me about **PYTHON,C,JAVA**
 - 📫 How to reach me **vighneshmandaleeka@gmail.com**
+</p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">

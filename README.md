@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm MANDALEEKA AVSS VIGHNESH</h1>
 <h3 align="center">A PASSIONATE PROGRAMMER FROM INDIA</h3>
+
 - 🌱 I’m currently learning **JAVA SCRIPT REACT NATIVE**
+
 - 💬 Ask me about **PYTHON,C,JAVA**
-- 📫 How to reach me **vighneshmandaleeka@gmail.com**
+
+- 📫 How to reach me **vighneshmandaleeka@gmail.com
  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mavssvighnesh" alt="mavssvighnesh" /></a> </p>
 

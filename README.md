@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **JAVA SCRIPT REACT NATIVE**
 
-- 💬 Ask me about **PYTHON,C,JAVA**
 
 - 📫 How to reach me **vighneshmandaleeka@gmail.com
  

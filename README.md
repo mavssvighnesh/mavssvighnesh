@@ -8,7 +8,7 @@
 
  I’m currently learning **JAVA SCRIPT REACT NATIVE AND WORKING ON DIFFERENT PYTHON PROJECTS**
 
- MY PORTFOLIO<A HREF="https://mavssvighnesh.github.io/PORTFOLIO/"><img align="center" src="https://icons8.com/icon/13027/briefcase" alt="VIGHNESH'S PORTFOLIO" height="30" width="30"/></A>
+ MY PORTFOLIO---->>>> <A HREF="https://mavssvighnesh.github.io/PORTFOLIO/"><img align="center" width="50" height="50" src="https://img.icons8.com/ios-filled/100/000000/portfolio.png" alt="portfolio"/></A>
 <BR>
 
  **MY PROGRESS::-**

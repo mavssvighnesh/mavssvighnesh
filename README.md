@@ -8,10 +8,8 @@
 
  I’m currently learning **JAVA SCRIPT REACT NATIVE AND WORKING ON DIFFERENT PYTHON PROJECTS**
 
- MY <A HREF="https://mavssvighnesh.github.io/PORTFOLIO/"> <img src="https://icons8.com/icon/13027/briefcase"></A>
+ MY PORTFOLIO<A HREF="https://mavssvighnesh.github.io/PORTFOLIO/"><img align="center" src="https://icons8.com/icon/13027/briefcase" alt="VIGHNESH'S PORTFOLIO" height="30" width="30"/></A>
 <BR>
-
-
 
  **MY PROGRESS::-**
 

@@ -8,7 +8,8 @@
 
  I’m currently learning **JAVA SCRIPT REACT NATIVE AND WORKING ON DIFFERENT PYTHON PROJECTS**
 
- MY PORTFOLIO---->>>> <A HREF="https://mavssvighnesh.github.io/PORTFOLIO/"><img align="center" width="50" height="50" src="https://img.icons8.com/ios-filled/100/000000/portfolio.png" alt="portfolio"/></A>
+ MY PORTFOLIO---->>>> <A HREF="https://mavssvighnesh.github.io/PORTFOLIO/">![icons8-portfolio-100](https://github.com/mavssvighnesh/mavssvighnesh/assets/109013315/b63607e3-c4d2-45be-a072-ef2eeb2e0a3f)</A>
+
 <BR>
 
  **MY PROGRESS::-**
@@ -20,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mandaleeka-avss-vighnesh-7ba848230/"target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/mandaleeka-avss-vighnesh-7ba848230/" height="50" width="50" /></a>
 <a href="https://instagram.com/vighnesh__sharma?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="@vighnesh__sharma" height="50" width="50" /></a>
-<a href="https://www.github.com/mavssvighnesh"><img align ="center" src="https://techstack-generator.vercel.app/github-icon.svg" color="white" alt="icon" width="55" height="55" /></a>
+<a href="https://www.github.com/mavssvighnesh">![icons8-github](https://github.com/mavssvighnesh/mavssvighnesh/assets/109013315/f495f076-f80a-44e7-8d93-c4b601922096)</a>
 <a href="mailto:vighneshmandaleeka@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="50" /></a>
 </p>
 

@@ -9,9 +9,7 @@
  I’m currently learning **JAVA SCRIPT REACT NATIVE AND WORKING ON DIFFERENT PYTHON PROJECTS**
 
 
-
-
- MY PORTFOLIO---->>>> <A HREF="https://mavssvighnesh.github.io/v/">![portfolio-small](https://github.com/mavssvighnesh/mavssvighnesh/assets/109013315/c1302d3b-5495-4a65-808f-f0e5fa7bf5d0)</A>
+ MY PORTFOLIO---->>>> <A HREF="https://mavssvighnesh.github.io/v/">![portfolio-small](https://github.com/mavssvighnesh/mavssvighnesh/assets/109013315/8996eb55-9ade-4b6d-9656-820ab75a1e49)</A>
 
 <BR>
 

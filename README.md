@@ -8,7 +8,8 @@
 
  I’m currently learning **JAVA SCRIPT REACT NATIVE AND WORKING ON DIFFERENT PYTHON PROJECTS**
 
- MY PORTFOLIO---->>>> <A HREF="https://mavssvighnesh.github.io/PORTFOLIO/"><img align="center" width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/portfolio.png" alt="portfolio"/> </A>
+
+ MY PORTFOLIO---->>>> <A HREF="https://mavssvighnesh.github.io/v/">![portfolio-color](https://github.com/mavssvighnesh/mavssvighnesh/assets/109013315/44c48da8-15ae-47ee-8762-3fc4d8214c42) </A>
 
 <BR>
 

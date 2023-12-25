@@ -10,7 +10,8 @@
 
 
 
- MY PORTFOLIO---->>>> <A HREF="https://mavssvighnesh.github.io/v/">![portfolio-medium](https://github.com/mavssvighnesh/mavssvighnesh/assets/109013315/f9db51ae-ba0d-48d7-ad48-f22f245fe54b)</A>
+
+ MY PORTFOLIO---->>>> <A HREF="https://mavssvighnesh.github.io/v/">![portfolio-small](https://github.com/mavssvighnesh/mavssvighnesh/assets/109013315/c1302d3b-5495-4a65-808f-f0e5fa7bf5d0)</A>
 
 <BR>
 
